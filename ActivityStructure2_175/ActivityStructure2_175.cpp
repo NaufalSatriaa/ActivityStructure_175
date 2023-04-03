@@ -21,10 +21,16 @@ int main() {
 	cout << "Masukkan Nama : ";
 	cin >> mhs.Nama;
 	cout << "Mauskkan Alamat" << endl;
-	cout << "Masukkan Desa : ";
+	cout << "\tMasukkan Desa : ";
 	cin >> mhs.Alamat.Desa;
-	cout << "Masukkan Kota : ";
+	cout << "\tMasukkan Kota : ";
 	cin >> mhs.Alamat.Kota;
 	cout << "Masukkan Umur : ";
 	cin >> mhs.umur;
+
+	cout << "\nNIM : " << mhs.NIM;
+	cout << "\nNama : " << mhs.Nama;
+	cout << "\ndesa : " << mhs.Alamat.Desa;
+	cout << "\nkota : " << mhs.Alamat.Kota;
+	cout << "\nUmur : " << mhs.umur;
 }
