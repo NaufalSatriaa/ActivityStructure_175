@@ -26,12 +26,12 @@ int main() {
 	cin >> mhs2.umur;
 
 	cout << "\nNIM : " << mhs1.NIM;
-	cout << "\\nNama : " << mhs1.Nama;
-	cout << "\\nAlamat : " << mhs1.Alamat;
-	cout << "\\nUmur : " << mhs1.umur;
+	cout << "\nNama : " << mhs1.Nama;
+	cout << "\nAlamat : " << mhs1.Alamat;
+	cout << "\nUmur : " << mhs1.umur;
 
 	cout << "\nNIM : " << mhs2.NIM;
-	cout << "\\nNama : " << mhs2.Nama;
-	cout << "\\nAlamat : " << mhs2.Alamat;
-	cout << "\\nUmur : " << mhs2.umur;
+	cout << "\nNama : " << mhs2.Nama;
+	cout << "\nAlamat : " << mhs2.Alamat;
+	cout << "\nUmur : " << mhs2.umur;
 }
