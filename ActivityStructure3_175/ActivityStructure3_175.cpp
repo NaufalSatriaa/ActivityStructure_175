@@ -6,6 +6,4 @@ struct AlamatDetail {
 	char Kota[20];
 };
 
-int main() {
 
-}
